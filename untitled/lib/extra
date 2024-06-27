@@ -1,0 +1,353 @@
+ child: Stack(
+            children: [
+              Positioned(
+                left: 3.36,
+                top: 819.36,
+                child: Transform(
+                  transform: Matrix4.identity()..translate(0.0, 0.0)..rotateZ(-1.58),
+                  child: Container(
+                    width: 847.68,
+                    height: 364.09,
+                    decoration: BoxDecoration(
+                      image: DecorationImage(
+                        image: NetworkImage("https://via.placeholder.com/848x364"),
+                        fit: BoxFit.fill,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 99,
+                top: 6,
+                child: Container(
+                  width: 161,
+                  height: 51,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/161x51"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: -0,
+                top: 70.50,
+                child: Container(
+                  width: 360,
+                  decoration: ShapeDecoration(
+                    shape: RoundedRectangleBorder(
+                      side: BorderSide(
+                        width: 1,
+                        strokeAlign: BorderSide.strokeAlignCenter,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: -0,
+                top: 91.50,
+                child: Container(
+                  width: 360,
+                  decoration: ShapeDecoration(
+                    shape: RoundedRectangleBorder(
+                      side: BorderSide(
+                        width: 1,
+                        strokeAlign: BorderSide.strokeAlignCenter,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: -0,
+                top: 493.50,
+                child: Container(
+                  width: 360,
+                  decoration: ShapeDecoration(
+                    shape: RoundedRectangleBorder(
+                      side: BorderSide(
+                        width: 1,
+                        strokeAlign: BorderSide.strokeAlignCenter,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 122,
+                top: 72,
+                child: SizedBox(
+                  width: 115,
+                  height: 22,
+                  child: Text(
+                    'Sunday, 04 Mar 2024',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 14,
+                      fontFamily: 'Post No Bills Colombo ExtraBold',
+                      fontWeight: FontWeight.w800,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 321,
+                top: 20,
+                child: Container(
+                  width: 30,
+                  height: 30,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/30x30"),
+                      fit: BoxFit.contain,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 10,
+                top: 20,
+                child: Container(
+                  width: 29,
+                  height: 31,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/29x31"),
+                      fit: BoxFit.contain,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 14,
+                top: 107,
+                child: SizedBox(
+                  width: 364,
+                  height: 76,
+                  child: Text(
+                    'MURDER AT THE TUDOR MANSION',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 28,
+                      fontFamily: 'Raleway',
+                      fontWeight: FontWeight.w800,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 14,
+                top: 107,
+                child: SizedBox(
+                  width: 364,
+                  height: 76,
+                  child: Text(
+                    'MURDER AT THE TUDOR MANSION',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 28,
+                      fontFamily: 'Raleway',
+                      fontWeight: FontWeight.w800,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 189,
+                top: 543,
+                child: SizedBox(
+                  width: 364,
+                  height: 76,
+                  child: Text(
+                    'SUSPECTS\nWEAPONS\nROOMS',
+                    textAlign: TextAlign.justify,
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 28,
+                      fontFamily: 'Raleway',
+                      fontWeight: FontWeight.w800,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 165,
+                top: 149,
+                child: Container(
+                  width: 180,
+                  height: 326,
+                  decoration: ShapeDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/180x326"),
+                      fit: BoxFit.fill,
+                    ),
+                    shape: RoundedRectangleBorder(side: BorderSide(width: 7)),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 232,
+                top: 282,
+                child: Container(
+                  width: 44,
+                  height: 46,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/44x46"),
+                      fit: BoxFit.contain,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 14,
+                top: 177,
+                child: SizedBox(
+                  width: 143,
+                  height: 212,
+                  child: Text(
+                      "In a shocking turn of events, the picturesque Tudor Mansion, renowned for hosting the most elaborate dinner parties, has become the epicenter of a real-life murder mystery straight out of the classic board game Cluedo. The victim, identified as Mr. Reginald Blackwood, was found lifeless in the mansion's opulent study, sending shockwaves through the exclusive community\nThe Tudor Mansion, known for its lavish décor and secret passageways, now houses a crime scene that has captivated the imagination of amateur sleuths and mystery enthusiasts alike. The game is afoot, and the mansion's array of suspects and rooms only intensify the intrigue.",
+                      textAlign: TextAlign.justify,
+                      style: GoogleFonts.raleway(
+                        color: Colors.black,
+                        fontSize: 10,
+                        fontWeight: FontWeight.w600,
+                        height: 0,)
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 39,
+                top: 748,
+                child: SizedBox(
+                  width: 290,
+                  height: 31,
+                  child: Text(
+                    'SOLVE THE MYSTERY',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 28,
+                      fontFamily: 'Raleway',
+                      fontWeight: FontWeight.w800,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 190,
+                top: 522,
+                child: SizedBox(
+                  width: 129,
+                  height: 18,
+                  child: Text(
+                    'A most peculiar set of',
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontSize: 12,
+                      fontFamily: 'Raleway',
+                      fontWeight: FontWeight.w600,
+                      height: 0,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 188,
+                top: 653,
+                child: SizedBox(
+                  width: 160,
+                  height: 76,
+                  child: Text.rich(
+                    TextSpan(
+                      children: [
+                        TextSpan(
+                          text: 'Do you have what it takes to \n',
+                          style: TextStyle(
+                            color: Colors.black,
+                            fontSize: 12,
+                            fontFamily: 'Raleway',
+                            fontWeight: FontWeight.w500,
+                            height: 0,
+                          ),
+                        ),
+                        TextSpan(
+                          text: 'follow the rules',
+                          style: TextStyle(
+                            color: Colors.black,
+                            fontSize: 12,
+                            fontFamily: 'Raleway',
+                            fontWeight: FontWeight.w800,
+                            height: 0,
+                          ),
+                        ),
+                        TextSpan(
+                          text: ' \nand get to the bottom of\n Mr Blackwood’s murder?',
+                          style: TextStyle(
+                            color: Colors.black,
+                            fontSize: 12,
+                            fontFamily: 'Raleway',
+                            fontWeight: FontWeight.w500,
+                            height: 0,
+                          ),
+                        ),
+                      ],
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 32,
+                top: 743,
+                child: Container(
+                  width: 297,
+                  height: 41,
+                  decoration: ShapeDecoration(
+                    color: Color(0x00D9D9D9),
+                    shape: RoundedRectangleBorder(side: BorderSide(width: 2)),
+                  ),
+                ),
+              ),
+              Positioned(
+                left: 22,
+                top: 522,
+                child: Container(
+                  width: 143,
+                  height: 192,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: NetworkImage("https://via.placeholder.com/143x192"),
+                      fit: BoxFit.fill,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ),
+
+          Positioned(
+                                right: 0,
+                                top: 10,
+                                child: Container(
+                                  width:30, // Adjust this value based on your design
+                                  child: Chewie(
+                                    controller: ChewieController(
+                                      videoPlayerController: VideoPlayerController.file(
+                                        // Replace with the actual path to your video file.
+                                        // Example: '/storage/emulated/0/Download/your_video.mp4'
+                                        File('assets/newsvid.mp4'),
+                                      ),
+                                      autoPlay: false,
+                                      looping: false,
+                                    ),
+                                  ),
+                                ),
+                              ),

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844203091789",
+    "project_id": "cluedo-eaeb0",
+    "storage_bucket": "cluedo-eaeb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844203091789:android:0ec42a834cef6e5faef904",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKO0-lWcdXYhqqdP91K27xMvSb9lqH_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
